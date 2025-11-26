@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:your.email@example.com" target="_blank">
+<a href="mailto:vucongchien204@gmail.com" target="_blank">
   <img alt="Email" src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
@@ -153,8 +153,8 @@ I'm always excited to collaborate on innovative projects and discuss modern fron
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="https://twitter.com/yourprofile" target="_blank">
-  <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+<a href="mailto:vucongchien204@gmail.com" target="_blank">
+  <img alt="Email" src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
 </div>
@@ -169,11 +169,11 @@ I'm always excited to collaborate on innovative projects and discuss modern fron
 
 <br/>
 
-🚀 From [YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+🚀 From [vucongchien](https://github.com/vucongchien)
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet&style=flat" alt="Profile Views">
+<img src="https://komarev.com/ghpvc/?username=vucongchien&color=blueviolet&style=flat" alt="Profile Views">
 
 </div>
 
