@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hello, I'm [Tên của bạn]!
+# 👋 Hello, I'm Chiến!
 
 **Frontend Developer | React & Next.js Specialist | UI/UX Enthusiast**
 
