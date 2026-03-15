@@ -6,7 +6,7 @@
 
 <br/>
 
-<a href="https://your-portfolio.com" target="_blank">
+<a href="https://chien-frontend-portfolio.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
 </a>
 <a href="https://linkedin.com/in/yourprofile" target="_blank">
