@@ -9,7 +9,7 @@
 <a href="https://chien-frontend-portfolio.vercel.app/" target="_blank">
   <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000">
 </a>
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
+<a href="https://www.linkedin.com/in/chi%E1%BA%BFn-v%C5%A9-6b6062373/" target="_blank">
   <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:vucongchien204@gmail.com" target="_blank">
