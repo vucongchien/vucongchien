@@ -2,7 +2,7 @@
 
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px"> Hello, I'm Vũ Công Chiến!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=1000&color=2563EB&center=true&vCenter=true&width=550&lines=Software+Engineer;AI-Native+Developer;FastAPI+%26+Next.js+Specialist;Agentic+Engineering+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=4000&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Software+Engineer;" alt="Typing SVG" />
 
 <br/>
 
@@ -102,8 +102,8 @@ My work bridges **scalable backend architecture**, **modern frontend engineering
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vucongchien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vũ Công Chiến's GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vucongchien&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api?username=vucongchien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vũ Công Chiến's GitHub stats" height="165" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vucongchien&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
