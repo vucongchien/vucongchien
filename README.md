@@ -93,9 +93,9 @@ My work bridges **scalable backend architecture**, **modern frontend engineering
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :--- |
-| **E-commerce AI Agent** | `Next.js` `FastAPI` `Supabase` `TypeScript` `CopilotKit` | Modern end-to-end food e-commerce platform integrated with AI Agent workflows for intelligent product consulting and automated cart assistance. | [Demo](https://copilot-chan-fe-v2.vercel.app/) • [GitHub](https://github.com/copilot-chan/copilot-chan-fe-v2) |
-| **Interactive Novel** | `React` `FastAPI` `Gemini API` `Docker` `Fly.io` | Interactive storytelling platform utilizing Gemini GenAI with prompt-engineering to dynamically branch stories, authenticated via OAuth. | [Demo](https://visual-story.vercel.app/) • [GitHub](https://github.com/vucongchien/visual-story) |
-| **Software Engineer Portfolio** | `Next.js 16` `Tailwind v4` `Playwright` `Clean BFF` | Conversational Editorial Minimalism design with Clean Server Modules, BFF Architecture, and automated E2E testing suite. | [Demo](https://chien-frontend-portfolio.vercel.app/) • [GitHub](https://github.com/vucongchien/chien-frontend-portfolio) |
+| **Fitness AI Website** | `Go` `Protobuf/gRPC` `Kafka` `PostgreSQL` `Agentic AI` `Next.js` | Modular monolith in Go with DDD architecture, Gemini API agentic workout coaching, and BFF frontend with Web Workers. | [GitHub (FE)](https://github.com/vucongchien/fitai-web) • [GitHub (BE)](https://github.com/viethung213/gym-companion) |
+| **Rent-a-GF Platform** | `Java` `Spring Boot` `Microservices` `gRPC` `Kafka` `Redis` `Next.js` | Microservices architecture with Protobuf contracts, Redis caching, multi-channel Notification Service (FCM, Push, Gmail), and BFF frontend. | [Demo](https://my-app-lovat-five-15.vercel.app/) • [GitHub](https://github.com/vucongchien/rent-a-gf-fe) |
+| **E-commerce AI Agent** | `Next.js` `FastAPI` `TypeScript` `Supabase` `MCP Server` `AgUI` | Modern food e-commerce platform integrated with conversational AI Agent workflows, MCP Server, and automated UI actions. | [Demo](https://copilot-chan-fe-v2.vercel.app/) • [GitHub](https://github.com/copilot-chan/copilot-chan-fe-v2) |
 
 ---
 
