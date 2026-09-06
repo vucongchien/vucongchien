@@ -94,6 +94,7 @@ My work bridges **scalable backend architecture**, **modern frontend engineering
 | **Fitness AI Website** | `Go` `Protobuf/gRPC` `Kafka` `PostgreSQL` `Agentic AI` `Next.js` | Modular monolith in Go with DDD architecture, Gemini API agentic workout coaching, and BFF frontend with Web Workers. | [GitHub (FE)](https://github.com/vucongchien/fitai-web) • [GitHub (BE)](https://github.com/viethung213/gym-companion) |
 | **Rent-a-GF Platform** | `Java` `Spring Boot` `Microservices` `gRPC` `Kafka` `Redis` `Next.js` | Microservices architecture with Protobuf contracts, Redis caching, multi-channel Notification Service (FCM, Push, Gmail), and BFF frontend. | [Demo](https://my-app-lovat-five-15.vercel.app/) • [GitHub](https://github.com/vucongchien/rent-a-gf-fe) |
 | **E-commerce AI Agent** | `Next.js` `FastAPI` `TypeScript` `Supabase` `MCP Server` `AgUI` | Modern food e-commerce platform integrated with conversational AI Agent workflows, MCP Server, and automated UI actions. | [Demo](https://copilot-chan-fe-v2.vercel.app/) • [GitHub](https://github.com/copilot-chan/copilot-chan-fe-v2) |
+| **Portfolio 2026** | `Next.js 16` `React 19` `Tailwind CSS v4` `Prisma` `Neon PostgreSQL` `TypeScript` | Personal engineering showcase with editorial visual identity, full-stack observability (Vercel Analytics & Speed Insights, Microsoft Clarity), and dynamic OG social card rendering. | [Demo](https://chien-frontend-portfolio.vercel.app/) • [GitHub](https://github.com/vucongchien/chien-frontend-portfolio) |
 
 ---
 
