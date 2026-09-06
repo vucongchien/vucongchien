@@ -7,23 +7,21 @@
 <br/>
 
 <a href="https://chien-frontend-portfolio.vercel.app/" target="_blank">
-  <img alt="Portfolio" src="https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
 <a href="https://www.linkedin.com/in/chi%E1%BA%BFn-v%C5%A9-6b6062373/" target="_blank">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a href="mailto:vucongchien204@gmail.com" target="_blank">
-  <img alt="Email" src="https://img.shields.io/badge/📧_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <a href="https://github.com/vucongchien" target="_blank">
-  <img alt="GitHub" src="https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
 </div>
 
 <br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbac4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ---
 
@@ -102,8 +100,11 @@ My work bridges **scalable backend architecture**, **modern frontend engineering
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=vucongchien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vũ Công Chiến's GitHub stats" height="165" />
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=vucongchien&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=vucongchien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=vucongchien&show_icons=true&theme=default&hide_border=true&count_private=true">
+    <img src="https://github-stats-extended.vercel.app/api?username=vucongchien&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Vũ Công Chiến's GitHub stats" height="165" />
+  </picture>
 </div>
 
 ---
@@ -113,6 +114,6 @@ My work bridges **scalable backend architecture**, **modern frontend engineering
   <p>Feel free to reach out for software engineering opportunities, agentic AI discussions, or potential collaborations.</p>
   
   <a href="mailto:vucongchien204@gmail.com">
-    <img src="https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge&logo=gmail&logoColor=white" alt="Get In Touch" />
+    <img src="https://img.shields.io/badge/Get_In_Touch-2563EB?style=for-the-badge" alt="Get In Touch" />
   </a>
 </div>
